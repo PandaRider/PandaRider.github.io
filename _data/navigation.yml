@@ -1,0 +1,13 @@
+# main links
+main:
+  - title: "About"
+    url: /about/
+  - title: "Projects"
+    url: /projects/
+  - title: "Reads"
+    url: /reads/
+  
+  # - title: "Sample Posts"
+  #   url: /year-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/
