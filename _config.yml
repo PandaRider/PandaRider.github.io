@@ -98,10 +98,10 @@ analytics:
 # Site Author
 author:
   name             : "Douheng (Edmund)"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Computer Science at SUTD. App developer. Hardware tinkerer"
+  avatar           : "/images/profile-pic-2.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Computer Science undergraduate at SUTD. App developer. Hardware tinkerer"
   location         : "Singapore"
-  email            :
+  email            : edmund_pang@mymail.sutd.edu.sg
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
