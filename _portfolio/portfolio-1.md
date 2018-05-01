@@ -1,6 +1,6 @@
 ---
-title: "Button project"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "The Button project"
+excerpt: "AAC device for non-verbal students<br/><img src='/images/button-1.jpg'>"
 collection: portfolio
 author_profile: true
 gallery:
