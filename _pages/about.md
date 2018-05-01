@@ -18,8 +18,8 @@ toc: true
 author_profile: true
 ---
 
-Hello! I am Edmund
+Hello! I am Dou Heng but my friends call me Edmund
 
-I'm an undergraduate studying software development by day and a hardware tinkerer by night. I'm interested in how embedded electronics, through secure networks and user interactivity, can impact our everyday lives. I strive to meet each challenge as a new learning opportunity. In between my commitments, I read anything from technology to the humanities. 
+I'm an undergraduate studying software development by day and a hardware tinkerer by night. I'm interested in how embedded electronics, through secure networks and user interactivity, can impact our everyday lives. I see every challenge as a new learning opportunity which I strive to give in my all. In between my commitments, I read anything from up-and-coming technologies to classical humanities. 
 
 After work gets done, I may be found practicing music or running marathons.

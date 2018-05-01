@@ -251,7 +251,12 @@ compress_html:
   clippings: all
   ignore:
     envs: development
-
+    
+# collections
+collections:
+  portfolio:
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
@@ -272,5 +277,5 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
-      comment: true
+      share: false
+      comment: false
