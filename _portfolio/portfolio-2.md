@@ -24,7 +24,7 @@ gallery:
   #   alt: "placeholder image 6"
 ---
 
-This project is for the course: "Elements of Software Construction". 
+This project is for the course: [Elements of Software Construction](https://istd.sutd.edu.sg/undergraduate/courses/50003-elements-of-software-construction). Check out the repo [here!](https://github.com/PandaRider/react-scheduler)
 
 {% include gallery caption="Timetable page" %}
 
