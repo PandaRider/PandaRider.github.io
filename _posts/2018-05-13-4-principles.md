@@ -7,11 +7,11 @@ tags:
   - Self-Improvement
   - Biography
 ---
-I don't usually read books that gloss over high-level concepts. I prefer books that give deep insights. Effectively, *Principles* is a big-book-of-you-dont-say. But it does not mean that it's useless. It doesn't even pretend that applying principles is easy or that you can see the results immediately. To me, I find it useful as it kinda summarizes many things I learnt and forgotten over the years. 
+I don't usually read books that gloss over high-level concepts. I prefer books that give deep insights. Effectively, *Principles* is a big-book-of-you-dont-say. But it does not mean that it's useless. To me, I find it useful as it kinda summarizes many things I learnt and forgotten over the years. 
 
 > To be principled means to consistently operate with principles that can be clearly explained.
 
-I'm quite pleasantly surprised the person that recommended me to read this book. 
+I'm also quite pleasantly surprised by the circumstances that made me to read this book. 
 <!-- Note-to-future: The highlights on the e-book are clearer so you should read that instead of this -->
 
 Part II: Life Principles
