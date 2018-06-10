@@ -24,7 +24,7 @@ gallery:
     alt: "placeholder image 6"
 ---
 
-The Button is an Augmented and Alternative Communication (AAC) device that empowers non-verbal students to convey information and express emotions. It has two modes: Record allows the user to speak into the device and record a short message; Playback replays the message most recently recorded. A key requirement of the project is to restrict to usage of cheaper components thereby offering a cheaper alternative to similar products [currently in the market](https://www.ablenetinc.com/bigmack).
+The Button is an Augmented and Alternative Communication (AAC) device that empowers non-verbal students to convey information and express emotions. It has two modes: Record allows the user to speak into the device and record a short message; Playback replays the message most recently recorded. A key requirement of the project is to restrict to usage of cheaper components thereby offering a cheaper alternative to [similar products currently in the market](https://www.ablenetinc.com/bigmack).
 
 {% include gallery caption="Top first sequence: PCB schematic, PCB prototype, end-user feedback, fully assembled prototype, PCB layout, improved PCB prototype" %}
 
