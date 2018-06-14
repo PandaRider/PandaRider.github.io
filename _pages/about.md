@@ -20,6 +20,6 @@ author_profile: true
 
 Hello! I am Dou Heng but my friends call me Edmund
 
-I'm an undergraduate studying software development by day and a hardware tinkerer by night. I'm interested in how embedded electronics, through secure networks and user interactivity, can impact our everyday lives. I see every challenge as a new learning opportunity which I strive to give my best. In between my commitments, I read anything from up-and-coming technologies to classical humanities. 
+I'm an undergraduate studying computer science. I'm interested in app development, systems security and embedded electronics. Through these different lenses, they motivate me in understanding how these can impact our everyday lives. In between my commitments, I read anything from up-and-coming technologies to classical humanities. 
 
 After work gets done, I may be found practicing music or running marathons.

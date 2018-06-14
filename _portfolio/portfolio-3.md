@@ -1,6 +1,6 @@
 ---
-title: "Modern Frontend Development with React workshop"
-excerpt: "Collated resources from open-source sites to teach the fundamentals of React and web development"
+title: "Modern Frontend Development with React (Workshop)"
+excerpt: "Conducted a one-week workshop for undergraduate students with intermediate programming background."
 collection: portfolio
 author_profile: true
 gallery:
@@ -24,7 +24,7 @@ gallery:
   #   alt: "placeholder image 6"
 ---
 
-Workshop conducted for undergraduate students with intermediate programming background (1yr+) and a keen interest to create the next Facebook :)
+ Collated resources from open-source sites to teach the fundamentals of React and web development. Workshop is structured for undergraduate students with intermediate programming background (1yr+) and a keen interest to create the next Facebook :)
 
 {% include gallery caption="" %}
 
