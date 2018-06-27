@@ -20,6 +20,6 @@ author_profile: true
 
 Hello! I am Dou Heng but my friends call me Edmund
 
-I'm an undergraduate studying computer science. I'm interested in app development, systems security and embedded electronics. Through these different lenses, they motivate me in understanding how these can impact our everyday lives. In between my commitments, I read anything from up-and-coming technologies to classical humanities. 
+I'm an undergraduate studying computer science. I'm interested in app development, systems security and embedded electronics. I strive to create projects that make a positive impact to others. In between my commitments, I read anything from up-and-coming technologies to classical humanities. Get in touch with me at [edmund_pang@mymail.sutd.edu.sg](edmund_pang@mymail.sutd.edu.sg)
 
 After work gets done, I may be found practicing music or running marathons.
