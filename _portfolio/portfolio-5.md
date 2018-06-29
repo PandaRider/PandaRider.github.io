@@ -1,6 +1,6 @@
 ---
-title: "ScroogeCoin (Bitcoin assignment)"
-excerpt: "For Bitcoin and Cryptocurrency Technologies independent coursework Assignment 1"
+title: "Educational Mobile App"
+excerpt: "React Native mobile app for education"
 collection: portfolio
 author_profile: true
 gallery:
@@ -24,5 +24,10 @@ gallery:
   #   alt: "placeholder image 6"
 ---
 
+Technologies
+* React Native
+* React Navigation
+* Expo (AV, )
+* NativeBase
 
 [Work-in-progress]
