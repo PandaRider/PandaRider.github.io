@@ -6,6 +6,8 @@ main:
     url: /portfolio/
   - title: "Reads"
     url: /reads/
+  - title: "Blog"
+    url: /blog/
   
   # - title: "Sample Posts"
   #   url: /year-archive/
