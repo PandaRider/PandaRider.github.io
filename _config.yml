@@ -254,10 +254,13 @@ compress_html:
     
 # collections
 collections:
-  portfolio:
+  # portfolio:
+  #   output: true
+  #   permalink: /:collection/:path/
+  reads:
     output: true
     permalink: /:collection/:path/
-  reads:
+  blog:
     output: true
     permalink: /:collection/:path/
 
@@ -274,14 +277,14 @@ defaults:
       comments: true
       share: true
       related: true
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: true
-      share: false
-      comment: false
+  # - scope:
+  #     path: ""
+  #     type: portfolio
+    # values:
+    #   layout: single
+    #   author_profile: true
+    #   share: false
+    #   comment: false
   - scope:
       path: ""
       type: blog

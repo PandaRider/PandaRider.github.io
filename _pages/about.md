@@ -18,8 +18,8 @@ toc: true
 author_profile: true
 ---
 
-Hello! I am Dou Heng but my friends call me Edmund
+Hello! I am Dou Heng (my friends call me Edmund!)
 
-I'm an undergraduate studying computer science. I'm interested in app development, systems security and embedded electronics. I keep a blog to share some cool stuffs I've learnt. In between my commitments, I read anything from up-and-coming technologies to old-fashioned humanities. Get in touch with me at [edmund_pang@mymail.sutd.edu.sg](edmund_pang@mymail.sutd.edu.sg)
+I'm an undergraduate studying computer science. I'm interested in software engineering development, systems security and embedded electronics. I keep a blog to share some cool stuffs I've learnt. In between my commitments, I read anything from up-and-coming technologies to old-fashioned humanities. Get in touch with me at [edmund_pang@mymail.sutd.edu.sg](edmund_pang@mymail.sutd.edu.sg)
 
-After work gets done, I may be found practicing music or running marathons.
+<!-- After work gets done, I may be found practicing music or running marathons. -->

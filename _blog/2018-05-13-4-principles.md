@@ -7,7 +7,7 @@ tags:
   - Self-Improvement
   - Biography
 ---
-I don't usually read books that gloss over high-level concepts. I prefer books that give deep insights. Effectively, *Principles* is a big-book-of-you-dont-say. But it does not mean that it's useless. To me, I find it useful as it kinda summarizes many things I learnt and forgotten over the years. 
+I don't usually read books that gloss over high-level concepts. I prefer books that provide direct instruction. Effectively, *Principles* is a big-book-of-you-dont-say. But it does not mean that it's useless. To me, I find it useful as it kinda summarizes many things I learnt and forgotten over the years. 
 
 > To be principled means to consistently operate with principles that can be clearly explained.
 
