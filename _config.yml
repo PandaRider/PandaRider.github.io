@@ -287,7 +287,7 @@ defaults:
     #   comment: false
   - scope:
       path: ""
-      type: blog
+      type: reads
     values:
       layout: single
       author_profile: true
