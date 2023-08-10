@@ -97,7 +97,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Douheng (Edmund)"
+  name             : "Edmund"
   avatar           : "/images/profile-pic-2.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Software engineer. Hardware tinkerer"
   location         : "Singapore"
